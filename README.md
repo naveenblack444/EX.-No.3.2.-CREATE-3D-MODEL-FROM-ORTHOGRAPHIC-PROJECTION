@@ -1,7 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:30/09/2025
 ## AIM:
-To create a 3D model from given orthographic projection.
+To create a 3D model from given orthographic projection..
 
 ## REQUIREMENTS:
 1. Autodesk fusion 360
